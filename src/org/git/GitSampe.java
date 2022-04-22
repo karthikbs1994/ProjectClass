@@ -6,6 +6,8 @@ public class GitSampe {
 		System.out.println("text");
 		System.out.println("text2");
 		System.out.println("text3");
+		System.out.println("text6");
+		System.out.println("text7");
 	}
 
 }
